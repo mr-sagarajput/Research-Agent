@@ -1,0 +1,20 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Project output reports (ignore generated reports, keep output directory)
+output/*
+!output/.gitkeep
+
+# Environment and sensitive files
+.env
+
+# Editor settings
+.vscode/
+.idea/

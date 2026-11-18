@@ -1,0 +1,18 @@
+# Official Ollama library to communicate with our local AI model
+ollama>=0.4.0
+
+# Free web search packages (ddgs is modern, duckduckgo-search as fallback)
+ddgs>=9.0.0
+duckduckgo-search>=7.0.0
+
+# HTML parsing library to extract readable text from web pages
+beautifulsoup4>=4.12.0
+
+# HTTP library to download web pages safely
+requests>=2.31.0
+
+# PDF generation library for clean, styled research reports
+reportlab>=5.0.0
+
+# Optional document generator (for exporting reports to .docx format)
+python-docx>=1.1.0
